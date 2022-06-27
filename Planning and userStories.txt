@@ -1,0 +1,58 @@
+
+Personas
+----------------------------------------------------------
+1) Jerry, age 41, is an Draftsman for a small Architectural firm in San Antonio. He has been online shopping
+extensively over the past few years due to the pandemic. He sticks to the larger online stores that he is
+familiar with because he does not like giving out his information, and forgets passwords easily. He 
+doesn't shop for clothes much online because he likes to try things on in person, but he buys a lot of gift cards
+for family around the holidays. 
+
+2) ....please add
+
+User Scenarios
+----------------------------------------------------------
+Jerry Gets in from work around 7 and remembers that his newphews birthday is two days from now. He has major deadlines at work and won't be able to shop. He remembers
+the website "Our website name" from a conversation he had a few days earlier with his sister. He decides to see if they have gift cards. 
+Jerry Googles "Our website name". He knows that his newphew wears a child's medium because He went clothes shopping at Christmas. He also knows he can't spend more than 
+he spent on his niece or she might be upset. Jerry goes to the website and scrolls around until he finds something he thinks his nephew might like. After that, he checks to 
+make sure it comes in the correct size, and is available for rush delivery. He selects a shirt he wants and puts it into the cart. There is also an option to
+check out immediately. Jerry decides to add the item to the cart and keep shopping. He finds a matching hat to go with the shirt. He looks at his total and finds that he 
+has hit his budget. He clicks the checkout button and opens the payment information. He enters his payment information. There is a message that he could sign up for an 
+account to preserve his cart and payment information. Jerry opts to sign up. He enters his name, email, and password and registers. After he registers he is given a message
+confirming his registration. After this is taken back to the cart to complete payment. 
+
+2) ....please add
+User Stories
+===========================================================
+General UI
+=======================
+1) as a customer, I need the cart to be visible at all times
+2) as a customer, when I first enter the site, I want the navigation to different items to be clear.
+3) as a customer, if I log in,  I want confirmation that I am in the correct account
+
+Shoping Cart
+=======================
+1) As a customer, I need to know how many items are in my cart and their rough price so that I can keep to my budget and determine if I can continue to shop.
+2) As a customer, I need to see a description of the items I have selected while I am in my cart to ensure that I have the correct items before I pay.
+3) As a customer, I need to have an option to continue shopping after examining things in my cart.
+4) As a customer, I want to have an option to register for an account even while I am in the cart, and an easy way to return to the cart afterwards.
+5) As a customer, I want to know my entire bill before paying.
+6) As a cuctomer, I want to easily apply discount codes at checkout time, prefereably while I am in the cart.
+7) As a customer, I want to get confirmation that my payment has been completed
+8) As a customer, I want to always know the status of my cart wherever I am on the site.
+.......
+
+Customer search
+=======================
+1) as a customer, I want to see my search filters clearly as I am browsing.
+2) as a customer I want to sort items by type/description, price, and availability
+3) as a customer, I want some indicator as to the filters that are currently in use
+........
+
+User Registration
+=======================
+1) as a customer, I want registration to be as simple as possible (username, password, email?(optional))
+2) as a customer, I want to return to the screen I navigated from immediately after registration success.
+3) as a customer, I want to know if I am logged in or out. 
+.........
+
