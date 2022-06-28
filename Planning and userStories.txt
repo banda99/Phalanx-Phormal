@@ -7,7 +7,10 @@ familiar with because he does not like giving out his information, and forgets p
 doesn't shop for clothes much online because he likes to try things on in person, but he buys a lot of gift cards
 for family around the holidays. 
 
-2) ....please add
+2) Kaine, age 17, is a high school student for a small town near San Antonio. She wants to buy Christmas gifts for her family but 
+can't go to the store personally due to bad weather. She would like to see all available items to purchase and well as size, available color,
+discounts, and type. She would also like to see her order status as well since Christmas is around the corner and her clothes need to get here
+fast! 
 
 User Scenarios
 ----------------------------------------------------------
