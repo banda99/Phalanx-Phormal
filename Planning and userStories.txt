@@ -12,6 +12,8 @@ can't go to the store personally due to bad weather. She would like to see all a
 discounts, and type. She would also like to see her order status as well since Christmas is around the corner and her clothes need to get here
 fast! 
 
+Alex, age 23, is a recent college graduate working a remote internship at a startup company. Due to a busy schedule and long work hours, he doesn't have much energy to go out to the mall and shop for himself or others. Howeverr, due to the decrease of COVID-19 cases, his project  manager has just informed that they will be returning to the office in 2 weeks. Alex looks at his closet and starts trying on clothes since he will have to dress for work now. He notices that he doesnt have much professional attire and decides to hop online and shop for some clothes. After looking at a few stores online, he isn't satisfied with the options he has viewed thus far. He recalls "our store name" from his friend mentioning it over brunch a few days ago. Alex wanst to see different styles as well as different colors so that he can make a variety of outfits without breaking the bank. He would like to see the total cost of his cart before purchase. Another thing he would like is a confirmation number when he places his order.
+
 User Scenarios
 ----------------------------------------------------------
 Jerry Gets in from work around 7 and remembers that his newphews birthday is two days from now. He has major deadlines at work and won't be able to shop. He remembers
@@ -45,6 +47,8 @@ Shopping Cart
 6) As a cuctomer, I want to easily apply discount codes at checkout time, prefereably while I am in the cart.
 7) As a customer, I want to get confirmation that my payment has been completed
 8) As a customer, I want to always know the status of my cart wherever I am on the site.
+9) as a customer, I want a confirmation number when i place an order
+10) as a customer, I want an expected delivery date (can be an estimate of weeks)
 .......
 
 Customer search
@@ -60,5 +64,5 @@ User Registration
 1) as a customer, I want registration to be as simple as possible (username, password, email?(optional))
 2) as a customer, I want to return to the screen I navigated from immediately after registration success.
 3) as a customer, I want to know if I am logged in or out. 
+4) as a customer, wehn cretaing my account I would like the option to have a password hint in case I forget my password
 .........
-
