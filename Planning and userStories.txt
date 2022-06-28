@@ -12,7 +12,7 @@ can't go to the store personally due to bad weather. She would like to see all a
 discounts, and type. She would also like to see her order status as well since Christmas is around the corner and her clothes need to get here
 fast! 
 
-Alex, age 23, is a recent college graduate working a remote internship at a startup company. Due to a busy schedule and long work hours, 
+3) Alex, age 23, is a recent college graduate working a remote internship at a startup company. Due to a busy schedule and long work hours, 
 he doesn't have much energy to go out to the mall and shop for himself or others. Howeverr, due to the decrease of COVID-19 cases, his project  
 manager has just informed that they will be returning to the office in 2 weeks. Alex looks at his closet and starts trying on clothes since he 
 will have to dress for work now. He notices that he doesnt have much professional attire and decides to hop online and shop for some clothes. 
@@ -21,9 +21,12 @@ mentioning it over brunch a few days ago. Alex wanst to see different styles as 
 without breaking the bank. He would like to see the total cost of his cart before purchase. Another thing he would like is a confirmation 
 number when he places his order.
 
+4).......... add Persona Here
+
+
 User Scenarios
 ----------------------------------------------------------
-Jerry Gets in from work around 7 and remembers that his newphews birthday is two days from now. He has major deadlines at work and won't be able to shop. He remembers
+1) Jerry Gets in from work around 7 and remembers that his newphews birthday is two days from now. He has major deadlines at work and won't be able to shop. He remembers
 the website "Our website name" from a conversation he had a few days earlier with his sister. He decides to see if they have gift cards. 
 Jerry Googles "Our website name". He knows that his newphew wears a child's medium because He went clothes shopping at Christmas. He also knows he can't spend more than 
 he spent on his niece or she might be upset. Jerry goes to the website and scrolls around until he finds something he thinks his nephew might like. After that, he checks to 
@@ -33,7 +36,9 @@ has hit his budget. He clicks the checkout button and opens the payment informat
 account to preserve his cart and payment information. Jerry opts to sign up. He enters his name, email, and password and registers. After he registers he is given a message
 confirming his registration. After this is taken back to the cart to complete payment. 
 
-2) ....please add
+2) .... add New Scenario Here
+
+
 User Stories
 ===========================================================
 General UI
