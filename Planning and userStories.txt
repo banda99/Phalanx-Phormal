@@ -29,6 +29,8 @@ General UI
 1) as a customer, I need the cart to be visible at all times
 2) as a customer, when I first enter the site, I want the navigation to different items to be clear.
 3) as a customer, if I log in,  I want confirmation that I am in the correct account
+4) as a customer, I want the website to be nice and neat.
+5) as a customer, I want the website to be understandable and consise.
 
 Shopping Cart
 =======================
@@ -47,8 +49,7 @@ Customer search
 1) as a customer, I want to see my search filters clearly as I am browsing.
 2) as a customer I want to sort items by type/description, price, and availability
 3) as a customer, I want some indicator as to the filters that are currently in use
-4) as a customer, I want the website to be nice and neat.
-5) as a customer, I want the website to be understandable and consise.
+
 ........
 
 User Registration
