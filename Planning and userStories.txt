@@ -12,7 +12,14 @@ can't go to the store personally due to bad weather. She would like to see all a
 discounts, and type. She would also like to see her order status as well since Christmas is around the corner and her clothes need to get here
 fast! 
 
-Alex, age 23, is a recent college graduate working a remote internship at a startup company. Due to a busy schedule and long work hours, he doesn't have much energy to go out to the mall and shop for himself or others. Howeverr, due to the decrease of COVID-19 cases, his project  manager has just informed that they will be returning to the office in 2 weeks. Alex looks at his closet and starts trying on clothes since he will have to dress for work now. He notices that he doesnt have much professional attire and decides to hop online and shop for some clothes. After looking at a few stores online, he isn't satisfied with the options he has viewed thus far. He recalls "our store name" from his friend mentioning it over brunch a few days ago. Alex wanst to see different styles as well as different colors so that he can make a variety of outfits without breaking the bank. He would like to see the total cost of his cart before purchase. Another thing he would like is a confirmation number when he places his order.
+Alex, age 23, is a recent college graduate working a remote internship at a startup company. Due to a busy schedule and long work hours, 
+he doesn't have much energy to go out to the mall and shop for himself or others. Howeverr, due to the decrease of COVID-19 cases, his project  
+manager has just informed that they will be returning to the office in 2 weeks. Alex looks at his closet and starts trying on clothes since he 
+will have to dress for work now. He notices that he doesnt have much professional attire and decides to hop online and shop for some clothes. 
+After looking at a few stores online, he isn't satisfied with the options he has viewed thus far. He recalls "our store name" from his friend 
+mentioning it over brunch a few days ago. Alex wanst to see different styles as well as different colors so that he can make a variety of outfits 
+without breaking the bank. He would like to see the total cost of his cart before purchase. Another thing he would like is a confirmation 
+number when he places his order.
 
 User Scenarios
 ----------------------------------------------------------
