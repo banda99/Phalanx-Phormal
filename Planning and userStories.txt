@@ -36,7 +36,14 @@ has hit his budget. He clicks the checkout button and opens the payment informat
 account to preserve his cart and payment information. Jerry opts to sign up. He enters his name, email, and password and registers. After he registers he is given a message
 confirming his registration. After this is taken back to the cart to complete payment. 
 
-2) .... add New Scenario Here
+2) Kaine finally gets her first paycheck today, and decides to use this money to buy Christmas clothes for herself and her family. She goes to our website and since she already 
+created an account the previous week, she doesn't need to sign in again. Kaine would like to see all of the clothes based on discount. She searches through the catalogue and sees the 
+clothes that she wants. She is terrible at math and doesn't know how much money she is spending. She opens up her shopping cart and can see
+how much she is spending, including tax and discounts. She reaches her budget limit and clicks on the payment button and it takes her to a payment page.
+She enters her information and is taken to a order status page that she can track at any time. The order status page will tell her the approximate
+date the order is going to arrive, as well as show what tier it on. For example, the order is still being "processed", or the order is "on way".
+Kaine sees that this might take a while and since Christmas is around the corner, opts in the pay and extra fee to get "VIP shipping" which will 
+dramatically decrease the shipping time of her order and give her priority over other orders.
 
 
 User Stories
@@ -68,6 +75,8 @@ Customer search
 1) as a customer, I want to see my search filters clearly as I am browsing.
 2) as a customer I want to sort items by type/description, price, and availability
 3) as a customer, I want some indicator as to the filters that are currently in use
+4) as a customer, I want the font for the search bar to be big enough to see and not squint when typing
+5) as a customer, I want the search criteria to be understandable and neat
 
 ........
 
