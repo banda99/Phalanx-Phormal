@@ -1,0 +1,45 @@
+.Cart {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #9c0404;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(79, 89, 94);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.products {
+  display: grid;
+  grid-template-columns: 1fr 1fr;;
+}
+
+.products img {
+  width: 35%;
+  height: 50%;
+}
+
+.product {
+  padding: px;
+}
+
+button {
+  background-color: #00ffd5;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  padding: 10px;
+}
+
+header {
+  background-color: #ffffff;
+  height: 70px;
+  padding-top: 20px;
+}
