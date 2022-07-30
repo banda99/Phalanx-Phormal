@@ -59,5 +59,75 @@ html, body{
 
     background: -webkit-linear-gradient(25deg, #FFbe0b, #fb5607, #ff006e);
     -webkit-background-clip: text;
-    -webkit-text-fill-color:transparent
+    -webkit-text-fill-color:transparent;
+}
+
+#form_content_container{
+    width: 100%;
+    height: 90%;
+
+    float: left;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding-top: 30px;
+}
+
+#form_content_inner_container{
+    width: 75%;
+    height: 110%;
+
+    float: left;
+    
+}
+
+input{
+    width: 100%;
+    height: 35px;
+
+    padding-left: 10px;
+    margin-bottom: 20px;
+
+    background: #000;
+    font-weight: 500;
+    color: #fff;
+    font-size: 12px;
+
+    border-bottom: 2px solid transparent;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+    border-image: -webkit-linear-gradient(25deg, #FFbe0b, #fb5607, #ff006e) 1;
+}
+
+#button_container{
+    width: 100%;
+    height: 10%;
+
+    background-image: linear-gradient(80deg, #ffbe0b, #fb5607 50%, #ff006e 50%, #8338ec);
+    color: #fff;
+
+    float: left;
+
+    margin-top: 5px;
+}
+
+#button_container button{
+    width: 50%;
+    height: 100%;
+    float: left;
+
+    background: transparent;
+    color: inherit;
+
+    letter-spacing: 1px;
+    font-weight: 900;
+    font-size: 12px;
+
+    cursor: pointer;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
