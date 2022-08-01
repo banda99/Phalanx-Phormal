@@ -23,7 +23,7 @@ html, body{
 
 #form_container{
     width: 100%;
-    height: 100%;
+    height: 80%;
 
     background-color: #D70040;
     box-shadow: 0 0 50px -20px #000;
@@ -77,7 +77,7 @@ html, body{
 
 #form_content_inner_container{
     width: 75%;
-    height: 110%;
+    height: 90%;
 
     float: left;
     
@@ -103,7 +103,7 @@ input{
 
 #button_container{
     width: 100%;
-    height: 10%;
+    height: 20%;
 
     background-image: linear-gradient(80deg, #ffbe0b, #fb5607 50%, #ff006e 50%, #8338ec);
     color: #fff;
