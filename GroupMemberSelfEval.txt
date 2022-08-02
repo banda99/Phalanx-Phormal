@@ -1,6 +1,6 @@
 Paul - 
 
-Darrian - 
+Darrian - Created Main Menu Html and css, Login html + css, use-case diagram, class diagram, user scenarios
 
 Luis - 
 
