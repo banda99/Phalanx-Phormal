@@ -1,6 +1,6 @@
 Paul - 
 
-Darrian - Created Main Menu Html and css, Login html + css, use-case diagram, class diagram, user scenarios
+Darrian - Created Main Menu Html and css, Login html + css, use-case diagram, class diagram, user scenarios, created user registration into Firebase API.
 
 Luis - Created JavaScript pages with functions in relation to the shopping cart such as adding items, removing items, applying discounts, filters, adding apparel, cart styling, created product page, cart page, calculated totals with tax, user scenarios,
 
