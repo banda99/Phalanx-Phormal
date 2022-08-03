@@ -4,4 +4,4 @@ Darrian - Created Main Menu Html and css, Login html + css, use-case diagram, cl
 
 Luis - Created JavaScript pages with functions in relation to the shopping cart such as adding items, removing items, applying discounts, filters, adding apparel, cart styling, created product page, cart page, calculated totals with tax, user scenarios,
 
-Andrew - Created database and functions to retrieve data from database. Includes retreiving current user's cart, filtering products, verifying login info, creating new users, applying discount codes, user scenarios.
+Andrew - Created database and functions to retrieve data from database. Includes retrieving current user's cart, filtering products, verifying login info, applying discount codes, user scenarios.
