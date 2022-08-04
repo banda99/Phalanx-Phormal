@@ -1,7 +1,40 @@
-Paul - 
+Paul -
+* created react Login
+* hooked react Login to firebase in collaboration with Darrian
+* created gitHub repository
+* created product manual 
+* created logo, mockups, and processed images for website
+* active in creating initial requirements and user stories along with rest of team
+* recording and editing final video
+* created Sequence Diagram
 
-Darrian - Created Main Menu Html and css, Login html + css, use-case diagram, class diagram, user scenarios, created user registration into Firebase API.
+Darrian - 
+* Created Main Menu Html and css,
+* Created Login html + css, 
+* Created use-case diagram, 
+* Created class diagram, 
+* active in creating initial requirements and user stories along with rest of team
+* created user registration into Firebase API.
 
-Luis - Created JavaScript pages with functions in relation to the shopping cart such as adding items, removing items, applying discounts, filters, adding apparel, cart styling, created product page, cart page, calculated totals with tax, user scenarios,
+Luis - 
+* Created JavaScript pages with functions in relation to the shopping cart such as:
+    adding items,
+    removing items, 
+    applying discounts, 
+    filters, 
+    adding apparel, 
+    cart styling, 
+    created product page, 
+    cart page, 
+    calculated totals with tax, 
+* active in creating initial requirements and user stories along with rest of team
 
-Andrew - Created database and most functions to retrieve and upload data from/to the database. Includes retrieving current user's cart, filtering products, verifying login info, applying discount codes, user scenarios, and more.
+Andrew - 
+* Created database,
+  and most functions to retrieve and upload data 
+  from/to the database. 
+  Includes retrieving current user's cart,
+  filtering products, 
+  verifying login info, 
+  and applying discount codes. 
+* active in creating initial requirements and user stories along with rest of team
